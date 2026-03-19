@@ -20,7 +20,7 @@
 [![CyberWorld](https://img.shields.io/badge/🎮_PLAY-CyberWorld_MMORPG-00e8ff?style=for-the-badge&labelColor=050a0f)](https://personfu.github.io/cyberworld.html)
 [![CyberOS](https://img.shields.io/badge/💻_CyberOS-v2026.3--FLLC-00ff41?style=for-the-badge&labelColor=050a0f)](https://personfu.github.io/cyberos-iso.html)
 
-> **CyberWorld** is a unified cybersecurity MMORPG combining **ClubPenguin + RuneScape + Pokémon + Hacking + FLLC** into one game engine.
+> **CyberWorld** is a unified cybersecurity MMORPG
 > 
 > `16 Adversaries` · `6 Factions (Bear/Spider/Chollima/Panda/Kitten/Jackal)` · `8 Daemons w/ Evolution` · `Battle System` · `Cyber Deck` · `8 Tools`
 
