@@ -12,7 +12,6 @@
 [![DoD Cyber Aware](https://img.shields.io/badge/DoD-Cyber%20Aware-FF0000?style=for-the-badge&logo=shield&logoColor=white)](https://public.cyber.mil/training/cyber-awareness-challenge/)
 [![NASA ASCEND](https://img.shields.io/badge/NASA-ASCEND-FF6B00?style=for-the-badge&logo=nasa&logoColor=white)](https://www.nasaascend.net/)
 [![DISCORD](https://img.shields.io/discord/1159996494691188765?style=social&label=DISCORD)](https://www.discord.gg/eSVjN92jTN)
-
 ---
 
 ### 🎮 **CyberWorld MMORPG — PLAY NOW**
@@ -20,14 +19,13 @@
 [![CyberWorld](https://img.shields.io/badge/🎮_PLAY-CyberWorld_MMORPG-00e8ff?style=for-the-badge&labelColor=050a0f)](https://personfu.github.io/cyberworld.html)
 [![CyberOS](https://img.shields.io/badge/💻_CyberOS-v2026.3--FLLC-00ff41?style=for-the-badge&labelColor=050a0f)](https://personfu.github.io/cyberos-iso.html)
 
-> **CyberWorld** is a unified cybersecurity MMORPG
-> 
+> **CyberWorld** is a unified cybersecurity MMORPG. The FLLC project for immersive threat simulation and OSINT discovery.
+>
 > `16 Adversaries` · `6 Factions (Bear/Spider/Chollima/Panda/Kitten/Jackal)` · `8 Daemons w/ Evolution` · `Battle System` · `Cyber Deck` · `8 Tools`
 
 ---
 
 </div>
-
 
 
 
@@ -173,9 +171,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Personfu/Personfu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Personfu/Personfu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Personfu/Personfu/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
