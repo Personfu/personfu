@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-fllc.net-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://fllc.net)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Personf)
-[![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/pentest)
+[![CompTIA Pen, Network, and Security+](https://img.shields.io/badge/CompTIA-PenTest%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/pentest)
 [![DoD Cyber Aware](https://img.shields.io/badge/DoD-Cyber%20Aware-FF0000?style=for-the-badge&logo=shield&logoColor=white)](https://public.cyber.mil/training/cyber-awareness-challenge/)
 [![NASA ASCEND](https://img.shields.io/badge/NASA-ASCEND-FF6B00?style=for-the-badge&logo=nasa&logoColor=white)](https://www.nasaascend.net/)
 [![DISCORD](https://img.shields.io/discord/1159996494691188765?style=social&label=DISCORD)](https://www.discord.gg/eSVjN92jTN)
