@@ -85,8 +85,8 @@
 | Tool | Purpose | Link |
 |------|---------|------|
 | **FLLC.NET** | Intelligence Platform | [fllc.net](https://fllc.net) |
-| **Threat Intel Dashboard** | Real-time threat intelligence | [https://personfu.github.io/GovINT] |
-| **OSINT Hub** | Centralized OSINT resources | [https://personfu.github.io] |
+| **Live Dashboard** | Real-time threat intelligence | [GovINTio](https://personfu.github.io/GovINT) |
+| **CYBER Hub** | Centralized CYBER resources | [CYBERio](https://personfu.github.io) |
 
 ---
 
